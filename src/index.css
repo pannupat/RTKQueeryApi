@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ก่อน */
+.example {
+  fill: stretch;
+}
+
+/* หลัง */
+.example {
+  stretch: stretch;
+}
